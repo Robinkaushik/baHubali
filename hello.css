@@ -1,0 +1,27 @@
+
+     .test{
+           background-color:blue ;
+           height:200px;
+           width:95%;
+           border:2px dotted black;
+           
+          }
+     .test1{
+           background-color: blue;
+           height:200px;
+           width:45%;
+           border:2px dotted black;
+            float:left;
+           }     
+     .test .p1{
+                 color:red;
+              } 
+     .test3{
+           background-color: blue;
+           height:200px;
+           width:50%;
+           border:2px dotted black;
+            float:left;
+           }
+
+    

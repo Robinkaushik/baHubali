@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>javascriptapplication</title>
+<script>
+ function function_sum()
+{
+var result=parsefloat(field1)+parsefloat(field2);
+var field2=document.getElementById("ta1").value;
+var field3=document.getElementById("ta2").value;
+document.getElementByName("sum").value=result;
+}
+</script>
+</head>
+<body>
+<form>
+<input type="text" id="ta1" >
+<input type="text" id="ta2" >
+<input type ="text" name="sum">
+<input type="button" value= "calculate" onclick="function_sum()">
+</form>
+</body>
+</html>
+

@@ -1,0 +1,22 @@
+.container{ 
+          height:500px;
+          width:100%;
+          background-color:blue;
+         }  
+ .inner{ height:400px;
+    width:50%;
+    background-color:yellow;
+       }
+  .posr{height:100px;
+        width:100px;
+        position:relative;
+         background-color:red;
+         top:5%;
+    }  
+.posa{
+    height:100px;
+    width:100px;
+    position:absolute;
+    top:45%;
+    background-color:green;
+    }          

@@ -1,0 +1,54 @@
+.main{
+    height:500px;
+    width:100%;
+    
+}
+.menu{
+    background-color:blue;
+    
+    }
+ .menu #form1{height:200px;
+        width: 50%;
+        margin-left:50%;
+        position:absolute;
+        top:0; 
+    }
+    .right{
+        height:300px;
+        width:50%;
+        position:relative;
+        top:200px;
+        margin-left:49.5%;
+    }           
+ .right #img2{
+              position:relative;
+              top:200px;
+             }
+   .right #form3{
+                 height:200px;
+                 width:49.5%;
+                 position:relative;
+                 top:300px;
+                 margin-left:49.5%;
+                }
+   .right #intro1{
+                height:25px;
+                width:49.5%;
+                 position:absolute;
+                 top:200px;
+                 margin-left:49.5%;
+                }                       
+                .right #intro2{
+                    height:25px;
+                    width:49.5%;
+                     position:absolute;
+                     top:225px;
+                     margin-left:49.5%;
+                    }   
+                    .right #intro3{
+                        height:25px;
+                        width:49.5%;
+                         position:absolute;
+                         top:250px;
+                         margin-left:49.5%;
+                        }                            
